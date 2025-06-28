@@ -8,7 +8,7 @@ Image of main menu screen:
 
 Image of user gameplay:
 
-![User Gameplay](https://github.com/Mdemoss18/Ball-Drop-Game/blob/main/Ball%20drop%20gameplay.png?raw=true)
+![User Gameplay]()
 
 Image of game over screen:
 
