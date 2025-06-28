@@ -4,7 +4,7 @@ A fun and engaging 20-second game built using Processing and Java. The objective
 
 Image of main menu screen:
 
-![Main Menu](image_url)
+![Main Menu](https://github.com/Mdemoss18/Ball-Drop-Game/blob/main/Main%20menu%20screen.png?raw=true)
 
 Image of user gameplay:
 
