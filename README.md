@@ -2,15 +2,15 @@
 
 A fun and engaging 20-second game built using Processing and Java. The objective is to catch as many falling balls as possible by moving a basket using the arrow keys. 
 
-Image of main menu screen:
+**Image of main menu screen:**
 
 ![Main Menu](https://github.com/Mdemoss18/Ball-Drop-Game/blob/main/Main%20menu%20screen.png?raw=true)
 
-Image of user gameplay:
+**Image of user gameplay:**
 
-![User Gameplay]()
+![User Gameplay](https://github.com/Mdemoss18/Ball-Drop-Game/blob/main/User%20gameplay%20image.png?raw=true)
 
-Image of game over screen:
+**Image of game over screen:**
 
 ![Game Over Screen](https://github.com/Mdemoss18/Ball-Drop-Game/blob/main/Game%20over%20screen.png?raw=true)
 
